@@ -1,0 +1,30 @@
+_repo: The-Natural-History-of-Selborne_1408
+_version: 0.0.1
+creator:
+  author:
+    agent_name: White, Gilbert
+    birthdate: 1720
+    deathdate: 1793
+    gutenberg_agent_id: '625'
+    url: http://www.gutenberg.org/2009/agents/625
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_White
+description: Account of the Rev. Gilbert White -- Part I. In a series of letters addressed
+  to Thomas Pennant, Esq. -- Part II. In a series of letters addressed to the Hon.
+  Daines Barrington.
+gutenberg_issued: '1998-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1408'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Selborne (England) -- Antiquities -- Early works to 1800'
+- !lcsh 'Natural history -- England -- Selborne -- Early works to 1800'
+- !lcc 'QH'
+- !lcc 'DA'
+- !lcsh 'Selborne (England) -- Description and travel -- Early works to 1800'
+- GITenberg
+title: The Natural History of Selborne
+url: http://www.gutenberg.org/ebooks/1408
